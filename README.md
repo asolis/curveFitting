@@ -7,20 +7,21 @@ Constructs a curve that has the best fit to a series of an ordered set of points
 * Least square fitting
 * Polygon fitting
 
-# Testing Mac
+# Running Linux / Mac
 
 >> ./compile.sh
 
 >> ./run.sh
 
-# Testing Windows
+# Running Windows
 
 >> compile.bat
 
 >> run.bat
 
 # Interaction 
+
 Draw a set of points by holding the left click and moving around the application window. 
 Once the mouse click is released the set of points is approximated by the selected algorithm. 
 
-Toggle the selected algorithms with Ctrl + C. 
+Toggle between the algorithms with Ctrl + C. 
